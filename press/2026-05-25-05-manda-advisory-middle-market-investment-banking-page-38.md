@@ -1,7 +1,9 @@
 ---
 title: M&A Advisory | Middle Market Investment Banking | Page 38
 url: https://peakstonegroup.com/news-insights/page/38/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Metaldyne Performance Group" press release artificial intelligence'
 position: 5
 source: serpapi-google

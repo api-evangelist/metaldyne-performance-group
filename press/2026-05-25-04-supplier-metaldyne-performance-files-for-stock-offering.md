@@ -1,7 +1,9 @@
 ---
 title: Supplier Metaldyne Performance files for stock offering
 url: https://www.autonews.com/article/20140823/OEM10/140829942/supplier-metaldyne-performance-files-for-stock-offering/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Metaldyne Performance Group" press release artificial intelligence'
 position: 4
 source: serpapi-google
